@@ -1,4 +1,4 @@
-#📊 Data Analytics Project README
+📊 Data Analytics Project README
 
 🔹 Project Overview
 
